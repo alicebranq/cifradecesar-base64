@@ -1,0 +1,29 @@
+#container-geral {
+    margin-top: 10px;
+    display: column;
+    align-items: center;
+}
+#container1 {
+    margin-top: 30px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+}
+#incremento{
+    margin-top: 30px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+}
+#container2 {
+    margin-top: 30px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+}
+#resultado{
+    margin-top: 30px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+}
